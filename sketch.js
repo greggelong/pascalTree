@@ -26,6 +26,7 @@ function makeTriangle(n) {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  pixelDensity(1);
   x = width / 2;
   textSize(50);
   background(0);
