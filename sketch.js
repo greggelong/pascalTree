@@ -32,8 +32,8 @@ function setup() {
   background(0);
   textAlign(CENTER, CENTER);
   angleMode(DEGREES);
-  frameRate(8);
-  makeTriangle(164);
+  frameRate(20);
+  makeTriangle(58);
   nbCheck = createCheckbox("label", false);
   nbCheck.position(50, 100);
 
